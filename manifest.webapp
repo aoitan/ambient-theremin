@@ -1,0 +1,25 @@
+{
+  "version": "0.1.0",
+  "name": "Ambient light theremin",
+  "description": "A template with the bare minimum structure",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/img/icons/icon16x16.png",
+    "48": "/img/icons/icon48x48.png",
+    "60": "/img/icons/icon60x60.png",
+    "128": "/img/icons/icon128x128.png"
+  },
+  "developer": {
+    "name": "Your name",
+    "url": "http://example.com"
+  },
+  "permissions": {},
+  "locales": {
+    "ja": {
+      "name": "環境光テルミン",
+      "description": "環境光センサーを使ったテルミンアプリ",
+      "permissions": {}
+    }
+  },
+  "default_locale": "ja"
+}
