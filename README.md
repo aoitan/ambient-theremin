@@ -26,7 +26,7 @@
 
 ### ソースコードのライセンス
 
-　本アプリのJavaScriptソースコード、HTML、CSS、manifest.webappに適用されるライセンスはNYSL Version 0.9982です。
+　本アプリのJavaScriptソースコード、HTML、CSS、manifest.webapp、propertiesファイルに適用されるライセンスはNYSL Version 0.9982です。
 
 http://www.kmonos.net/nysl/
 
