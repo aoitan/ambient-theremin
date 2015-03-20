@@ -15,8 +15,7 @@
   "locales": {
     "ja": {
       "name": "環境光テルミン",
-      "description": "環境光センサーを使ったテルミンアプリ",
-      "permissions": {}
+      "description": "環境光センサーを使ったテルミンアプリ"
     }
   },
   "default_locale": "ja"
